@@ -8,7 +8,7 @@
 
  - [404 Not Found](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
  - [Social media dashboard](https://www.frontendmentor.io/solutions/social-media-dashboard-gXxCRA95_)
- - [Image Uploader](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx) - [x]
+ - [x] [Image Uploader](https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx)
  - [Weather App](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv)
  - [Github Jobs](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps)
  - [IP Address Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
